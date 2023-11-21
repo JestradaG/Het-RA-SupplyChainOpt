@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Heterogeneous Risk-Averse Supply Chain Optimization
+  Python-Gurobi Implementation
+message: 'If you use this software, please cite us'
+type: software
+authors:
+  - given-names: Juan-Alberto
+    family-names: Estrada-Garcia
+    email: juanest@umich.edu
+    affiliation: 'University of Michigan, Ann Arbor'
+    orcid: 'https://orcid.org/0000-0003-2308-1897'
+  - given-names: Dawn M.
+    family-names: Tilbury
+    email: tilbury@umich.edu
+    affiliation: 'University of Michigan, Ann Arbor'
+  - given-names: Kira
+    family-names: Barton
+    email: bartonkl@umich.edu
+    affiliation: 'University of Michigan, Ann Arbor'
+  - given-names: Siqian
+    family-names: Shen
+    email: siqian@umich.edu
+    affiliation: 'University of Michigan, Ann Arbor'
+repository-code: 'https://github.com/JestradaG/Het-RA-SupplyChainOpt'
+abstract: >-
+  Python implementation for the optimization models and data
+  described in the paper titled "Supply Chain Design
+  Optimization with Heterogeneous Risk-aware Agents"
+license: AGPL-3.0
+version: '1'
+date-released: '2023-11-21'
